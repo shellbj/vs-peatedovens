@@ -1,0 +1,9 @@
+[
+ {
+	"side": "server",
+    "op": "addmerge",
+    "path": "/attributes/isClayOvenFuel",
+    "value": true,
+    "file": "driedpeat:itemtypes/refinedpeat.json"	
+  }
+]

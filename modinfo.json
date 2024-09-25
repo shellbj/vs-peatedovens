@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "peatedovens",
+  "name": "Clay Ovens Can Use Peat",
+  "authors": [
+    "CardinalFang"
+  ],
+  "description": "Enable peat to be used as fuel for the clay ovens.",
+  "version": "1.0.0"
+}
